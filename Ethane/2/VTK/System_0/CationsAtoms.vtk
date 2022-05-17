@@ -3,9 +3,9 @@ Cube
 ASCII
 
 DATASET POLYDATA
-POINTS 522 float
+POINTS 494 float
 LINES 0 0
-POINT_DATA 522
+POINT_DATA 494
 SCALARS my_scalars float
 LOOKUP_TABLE default
 VECTORS vectors float

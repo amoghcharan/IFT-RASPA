@@ -11,11 +11,11 @@ echo "First Pressure Started"
 ./run
 echo "First Pressure Finished"
 
-cd ..
-cd '2'
-echo "Second Pressure Started"
-./run
-echo "Second Pressure Finished"
+#cd ..
+#cd '2'
+#echo "Second Pressure Started"
+#./run
+#echo "Second Pressure Finished"
 
 cd ..
 cd '3'
